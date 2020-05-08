@@ -15,7 +15,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><b>BABERSHOP</b> | <i>Kota Selong</i></a>
+                <a class="navbar-brand" href="#"><b>BABERSHOP</b> | Kota Selong</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
