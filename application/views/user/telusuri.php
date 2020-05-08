@@ -59,6 +59,51 @@
                         </div>
                     </div>
                 </div>
+				<div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
+                    <div class="thumbnail">
+                        <img src="<?php base_url() ?>assets/gambar/bg.jpg" alt="...">
+                        <div class="caption">
+                            <h3>Babershop 2</h3>
+                            <p>
+                                Description of place 1
+                            </p>
+                            <p>
+                                 <a href="point_more.html" class="btn btn-primary">More Info</a>
+                                <a href="point_map.html" class="btn btn-default"><i class="glyphicon glyphicon-flag"></i> Find In Map</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
+                    <div class="thumbnail">
+                        <img src="<?php base_url() ?>assets/gambar/bg.jpg" alt="...">
+                        <div class="caption">
+                            <h3>Babershop 2</h3>
+                            <p>
+                                Description of place 1
+                            </p>
+                            <p>
+                                 <a href="point_more.html" class="btn btn-primary">More Info</a>
+                                <a href="point_map.html" class="btn btn-default"><i class="glyphicon glyphicon-flag"></i> Find In Map</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
+                    <div class="thumbnail">
+                        <img src="<?php base_url() ?>assets/gambar/bg.jpg" alt="...">
+                        <div class="caption">
+                            <h3>Babershop 2</h3>
+                            <p>
+                                Description of place 1
+                            </p>
+                            <p>
+                                 <a href="point_more.html" class="btn btn-primary">More Info</a>
+                                <a href="point_map.html" class="btn btn-default"><i class="glyphicon glyphicon-flag"></i> Find In Map</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
                     <div class="thumbnail">

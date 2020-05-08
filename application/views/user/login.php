@@ -45,7 +45,7 @@ $this->load->view('user/template/nav');
     <!-- /.social-auth-links -->
 
     
-
+		<?php $this->load->view('user/template/foot') ?>
   </div>
   <!-- /.login-box-body -->
 </div>
