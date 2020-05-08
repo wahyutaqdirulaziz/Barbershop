@@ -9,6 +9,7 @@
 
   <!-- Bootstrap core CSS -->
   
+	
  			 <link href="<?php base_url()?>assets/user/css/bootstrap.min.css" rel="stylesheet">
         
         <link href="<?php base_url()?>assets/user/ext/customScroll/css/jquery.mCustomScrollbar.css" rel="stylesheet">

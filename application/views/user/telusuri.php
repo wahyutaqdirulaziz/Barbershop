@@ -23,14 +23,14 @@
                 </form>
 
                 <div class="divider10"></div>
-	
+					 
             </div>
         </div>
         <div class="col-xs-12 col-md-8">
             <div class="row">
                 <div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
                     <div class="thumbnail">
-                        <img data-src="holder.js/300x200" alt="...">
+                        <img src="<?php base_url() ?>assets/gambar/bg.jpg" alt="...">
                         <div class="caption">
                             <h3>Babershop 1</h3>
                             <p>
@@ -46,7 +46,7 @@
 
                 <div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
                     <div class="thumbnail">
-                        <img data-src="holder.js/300x200" alt="...">
+                        <img src="<?php base_url() ?>assets/gambar/bg.jpg" alt="...">
                         <div class="caption">
                             <h3>Babershop 2</h3>
                             <p>
@@ -62,7 +62,7 @@
 
                 <div class="col-sm-6 col-md-5 col-lg-4 point-item-thumbnail">
                     <div class="thumbnail">
-                        <img data-src="holder.js/300x200" alt="...">
+                        <img src="<?php base_url() ?>assets/gambar/bg.jpg" alt="...">
                         <div class="caption">
                             <h3>Babershop 3</h3>
                             <p>
