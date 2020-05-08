@@ -32,9 +32,9 @@
                 </ul>
                
                 <ul class="nav navbar-nav navbar-right">
-                    <li>  <a href="login.html">Daftar</a></li>
+                    <li>  <a href="<?php base_url() ?>login_user">Login</a></li>
                     <li>
-                        <a href="login.html">Login</a>
+                        <a href="#"></a>
                     </li>
 
                 </ul>

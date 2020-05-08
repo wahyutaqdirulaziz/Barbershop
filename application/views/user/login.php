@@ -3,6 +3,7 @@
 
 <?php
 $this->load->view('admin/template/head');
+$this->load->view('user/template/nav');
 ?>
 
 <body class="hold-transition login-page">
@@ -10,9 +11,6 @@ $this->load->view('admin/template/head');
   <div class="login-logo">
     <a href="#"><img src="gambar/tes.png" width="100"  height="" alt=""><b>Login</b> </i>Babershop</a>
   </div>
-  <center>
- 
-  </center><br>
   <!-- /.login-logo -->
   <div class="login-box-body">
     <p class="login-box-msg">Login User</p>
@@ -32,10 +30,14 @@ $this->load->view('admin/template/head');
         </div>
         <!-- /.col -->
         <div class="col-xs-4">
-          <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
+          <button type="submit" class="btn btn-success btn-block btn-flat">Sign In</button>
         </div>
+				<BR>
+				
         <!-- /.col -->
-      </div>
+      </div><BR>
+			<p><center>Belum mempunyai akun silahkan!!</center></p>
+				<p><center><a href="<?php base_url()  ?>daftar">Daftar</a></center></p>
     </form>
 
    
