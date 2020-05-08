@@ -3,13 +3,14 @@
 
 <?php
 $this->load->view('admin/template/head');
+$this->load->view('user/template/head');
 $this->load->view('user/template/nav');
 ?>
 
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="#"><img src="gambar/tes.png" width="100"  height="" alt=""><b>Login</b> </i>Babershop</a>
+    <img src="gambar/tes.png" width="100"  height="" alt=""><b>Login</b> </i>Babershop</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -17,13 +18,13 @@ $this->load->view('user/template/nav');
 
     <form action="<?php base_url() ?>login_user/aksi" method="post">
       <div class="form-group has-feedback">
+			<label for="">Username:</label>
         <input type="text" class="form-control" name="username" placeholder="Username">
-        <span class="glyphicon glyphicon-user form-control-feedback"></span>
-      </div>
+       </div>
       <div class="form-group has-feedback">
+			<label for="">Password:</label>
         <input type="password" class="form-control" name="password" placeholder="Password">
-        <span class="glyphicon glyphicon-lock form-control-feedback"></span>
-      </div>
+       </div>
       <div class="row">
         <div class="col-xs-8">
           
