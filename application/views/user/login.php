@@ -16,7 +16,7 @@ $this->load->view('user/template/nav');
   <div class="login-box-body">
     <p class="login-box-msg">Login User</p>
 
-    <form action="<?php base_url() ?>login_user/aksi" method="post">
+    <form action="<?php base_url() ?>" method="post">
       <div class="form-group has-feedback">
 			<label for="">Username:</label>
         <input type="text" class="form-control" name="username" placeholder="Username">
