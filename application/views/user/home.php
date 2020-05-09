@@ -20,66 +20,7 @@
                     </button>
                 </form>
             </div>
-            <div id="sidemenu" class="well">
-                <div class="btn-group btn-group-justified btn-group-sm">
-                    <a class="btn btn-default"> <i class="glyphicon glyphicon-fullscreen"></i> Fit in Window </a>
-                    <a class="btn btn-default"> <i class="glyphicon glyphicon-filter"></i> Filter </a>
-                </div>
-                <div class="divider10"></div>
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <a>Sort By</a>
-                    </div>
-                </div>
-                <div class="list-group point-list-view">
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 1</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item active"> <h4 class="list-group-item-heading" >Location 2</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 3</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 1</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 2</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 3</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 1</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 2</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 3</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 1</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                    <a href="#"class="list-group-item point-item"> <h4 class="list-group-item-heading" >Location 2</h4>
-                    <p class="list-group-item-text">
-                        Location Address
-                    </p> </a>
-                   
-                </div>
-
-            </div>
+           
         </div>
         
         <script src="<?php base_url()?>assets/user/assets/js/jquery-1.10.2.min.js"></script>
